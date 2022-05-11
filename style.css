@@ -3,13 +3,27 @@ body{
 }
 .copy_right_footer{
     color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0px;
+    background-color: red;
+    width: 100%;
 }
-h4{
+h5{
     color: white;
 }
 button{
+    margin-top: 20px;
     background-color: red;
     color: white;
     width: 150px;
     height: 40px;
 }
+h1, h4{
+    font-family: 'Dancing Script', cursive;
+}
+.hedder_div{
+    background-color: aqua;
+}                               
